@@ -1,7 +1,7 @@
 
 var http = require('http');
 var fs = require('fs');
-//var logToConsole = require('./ExtNames.js')
+var logToConsole = require('./ExtNames.js')
 
 
 
