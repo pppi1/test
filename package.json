@@ -16,6 +16,13 @@
   "author": "pppi",
   "license": "ISC",
   "dependencies": {
-    
+    "requirejs": "latest"
+    , "connect": "latest"
+  }
+  , "devDependencies": {
+    "mocha": "latest",
+    "chai": "latest",
+    "grunt": "latest",
+    "grunt-exec": "latest"
   }
 }
